@@ -1,7 +1,9 @@
 # ETHiopia website wip (work in progress)
 ## Interactive Features to Add
+
+### Starter cod is there. But needs a check, polish, design and contents
 - Responsive Mobile Navigation (Hamburger Menu)
-Make the navigation menu collapsible for mobile devices.
+Make the navigation menu collapsible for mobile devices. 
 
 - ### Modal Windows
 Use modals for forms and additional information.
