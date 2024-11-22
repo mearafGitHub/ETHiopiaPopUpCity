@@ -4,10 +4,12 @@
 Make the navigation menu collapsible for mobile devices.
 
 - ### Modal Windows
-Use modals for forms or additional information.
+Use modals for forms and additional information.
 
 - ### Event Filtering or Search
-Allow users to filter events or search for tickets.
+Allow users to: 
+- - filter events or 
+- - earch for tickets.
 
 - ### Dynamic Counters or Token Balance Updates
 Use JavaScript to show live counters.
