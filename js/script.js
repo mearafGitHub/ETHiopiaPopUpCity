@@ -25,3 +25,10 @@ document.getElementById("event-search").addEventListener("input", function (e) {
         event.style.display = title.includes(query) ? "block" : "none";
     });
 });
+
+let tokens = 100;
+document.getElementById("earn-tokens").addEventListener("click", function () {
+    tokens += 10;
+    document.getElementById("token-count").textContent = tokens;
+});
+
