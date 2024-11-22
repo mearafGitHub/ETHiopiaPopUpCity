@@ -1,15 +1,4 @@
-project/
-│
-├── index.html       # Home Page
-├── events.html      # Events Page
-├── ticketing.html   # Ticketing Page
-├── tokens.html      # Tokens Page
-├── team.html        # Team Page
-├── css/
-│   └── tailwind.css # Tailwind configuration (optional)
-└── js/
-    └── script.js    # Optional JavaScript
-
+# ETHiopia website wip (work in progress)
 ## Interactive Features to Add
 - Responsive Mobile Navigation (Hamburger Menu)
 Make the navigation menu collapsible for mobile devices.
@@ -21,7 +10,8 @@ Use modals for forms or additional information.
 Allow users to filter events or search for tickets.
 
 - ### Dynamic Counters or Token Balance Updates
-Use JavaScript to show live counters or dynamically update token balances.
+Use JavaScript to show live counters.
+Dynamically update token balances.
 
 - ### Team Member Details on Hover
-Display team member bios or links when their image is hovered.
+Nice playful display team member bios or links when their image is hovered.
